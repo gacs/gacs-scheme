@@ -1,4 +1,3 @@
 # Global Agricultural Concept Space (GACS) core concepts
-GACS concepts encoded using [SKOS](https://www.w3.org/TR/skos-primer/) concepts.
 
-For more information please see https://agrisemantics.org/#GACShome/
+**GACS has not been actively developed since 2016. For more information please see https://agrisemantics.org/#GACShome/**.
